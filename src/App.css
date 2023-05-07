@@ -1,0 +1,26 @@
+body{
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 80px;
+  
+background: gray;
+}
+li{
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 4px;
+  background: whitesmoke;
+  box-shadow: 0 0 10px gray;
+  color: gray;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  -moz-box-shadow: 3px 7px 2px -1px rgba(110,90,90,0.75);
+-webkit-box-shadow: 3px 7px 2px -1px rgba(110,90,90,0.75);
+box-shadow: 3px 7px 2px -1px rgba(110,90,90,0.75);
+}
+button{
+  margin-left: 10px;
+
+  
+}
