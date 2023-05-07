@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Click this link https://main--precious-bavarois-7fc439.netlify.app/ to view the app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
